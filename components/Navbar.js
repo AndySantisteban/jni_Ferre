@@ -17,7 +17,7 @@ const Navbar = () => {
           crossOrigin="anonymous"
         ></script>
       </Head>
-      <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
         <div className="container-fluid ms-2">
           <Link href="/">
             <a className="navbar-brand">Jni Ferreñafe</a>
